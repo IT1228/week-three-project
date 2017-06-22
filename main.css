@@ -1,0 +1,219 @@
+body {
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+#row1{
+  display: flex;
+  width:400px;
+  height:100px;
+}
+#row2{
+  display: flex;
+  width:400px;
+  height:100px;
+}
+#row3{
+  display: flex;
+  width:400px;
+  height:100px;
+}
+#row4{
+  display: flex;
+  width:400px;
+  height:100px;
+}
+#row5{
+  display: flex;
+  width:400px;
+  height:100px;
+}
+
+#numButtonClear{
+  border:solid white 1px;
+  height: 100px;
+  width: 100px;
+  background-color: #61b34f;
+  text-align:center;
+  color: white;
+  font-size: 30px;
+}
+
+#display{
+  border:solid white 1px;
+  height: 100px;
+  width: 300px;
+  background-color: #61b34f;
+
+}
+
+#numButton7{
+  border:solid white 1px;
+  height: 100px;
+  width: 100px;
+  background-color: #61b34f;
+  text-align:center;
+  font-size: 30px;
+  color:white;
+
+}
+
+#numButton8{
+  border:solid white 1px;
+  height: 100px;
+  width: 100px;
+  background-color: #61b34f;
+  text-align:center;
+  font-size: 30px;
+  color:white;
+
+}
+
+#numButton9{
+  border:solid white 1px;
+  height: 100px;
+  width: 100px;
+  background-color: #61b34f;
+  text-align:center;
+  font-size: 30px;
+  color:white;
+
+}
+
+#numButtonDivide{
+  border:solid white 1px;
+  height: 100px;
+  width: 100px;
+  background-color: #82c276;
+  font-size: 30px;
+  text-align:center;
+
+}
+
+#numButton4{
+  border:solid white 1px;
+  height: 100px;
+  width: 100px;
+  background-color: #61b34f;
+  font-size: 30px;
+  color:white;
+  text-align:center;
+
+}
+
+#numButton5{
+  border:solid white 1px;
+  height: 100px;
+  width: 100px;
+  background-color: #61b34f;
+  font-size: 30px;
+  color:white;
+  text-align:center;
+
+}
+
+#numButton6{
+  border:solid white 1px;
+  height: 100px;
+  width: 100px;
+  background-color: #61b34f;
+  font-size: 30px;
+  color:white;
+  text-align:center;
+
+}
+
+#numButtonMultiply{
+  border:solid white 1px;
+  height: 100px;
+  width: 100px;
+  background-color: #82c276;
+  font-size: 30px;
+  text-align:center;
+
+}
+
+#numButton1{
+  border:solid white 1px;
+  height: 100px;
+  width: 100px;
+  background-color: #61b34f;
+  font-size: 30px;
+  color:white;
+  text-align:center;
+
+}
+
+#numButton2{
+  border:solid white 1px;
+  height: 100px;
+  width: 100px;
+  background-color: #61b34f;
+  font-size: 30px;
+  color:white;
+  text-align:center;
+
+}
+
+#numButton3{
+  border:solid white 1px;
+  height: 100px;
+  width: 100px;
+  background-color: #61b34f;
+  font-size: 30px;
+  color:white;
+  text-align:center;
+
+}
+
+#numButtonSubtract{
+  border:solid white 1px;
+  height: 100px;
+  width: 100px;
+  background-color: #82c276;
+  font-size: 30px;
+  text-align:center;
+
+}
+
+#numButton0{
+  border:solid white 1px;
+  height: 100px;
+  width: 100px;
+  background-color: #61b34f;
+  font-size: 30px;
+  color:white;
+  text-align:center;
+
+}
+
+#numButtonPoint{
+  border:solid white 1px;
+  height: 100px;
+  width: 100px;
+  background-color: #61b34f;
+  font-size: 30px;
+  color:white;
+  text-align:center;
+
+}
+
+#numButtonEquals{
+  border:solid white 1px;
+  height: 100px;
+  width: 100px;
+  background-color: #61b34f;
+  font-size: 30px;
+  color:white;
+  text-align:center;
+
+}
+
+#numButtonAdd{
+  border:solid white 1px;
+  height: 100px;
+  width: 100px;
+  background-color: #82c276;
+  font-size: 30px;
+  text-align:center;
+
+}
